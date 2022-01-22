@@ -17,7 +17,7 @@
     "flex.css": "^1.1.7",
     "html2canvas": "^1.0.0-alpha.12",
     "moment": "^2.22.1",
-    "nanoid": "^1.0.2",
+    "nanoid": "^3.1.31",
     "normalize.css": "^8.0.0",
     "nprogress": "^0.2.0",
     "qs": "^6.5.1",
