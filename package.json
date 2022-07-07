@@ -16,7 +16,7 @@
     "element-ui": "^2.3.4",
     "flex.css": "^1.1.7",
     "html2canvas": "^1.0.0-alpha.12",
-    "moment": "^2.22.1",
+    "moment": "^2.29.4",
     "nanoid": "^1.0.2",
     "normalize.css": "^8.0.0",
     "nprogress": "^0.2.0",
